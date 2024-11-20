@@ -2,63 +2,63 @@
     "images": [
         {
             "imgPath": "pics/fish1.jpg",
-            "imgLocation": "Fish",
-            "description": "Fish with Open Mouth",
-            "date": "01/01/2016"
+            "name": "Robert",
+            "uglvl": "6/10",
+            "actug": "Not really, "
         },
         {
             "imgPath": "pics/fish2.png",
-            "imgLocation": "Fish",
-            "description": "Fish with Open Mouth",
-            "date": "01/01/2016"
+            "name": "Jessie",
+            "uglvl": "7/10",
+            "actug": "He's not hideous but he's kinda hard to look at. I'm not a fan, "
         },
         {
             "imgPath": "pics/fish3.png",
-            "imgLocation": "Fish",
-            "description": "Fish with Open Mouth",
-            "date": "01/01/2016"
+            "name": "Harold",
+            "uglvl": "8/10",
+            "actug": "What the flip is that fish, "
         },
         {
             "imgPath": "pics/fish4.png",
-            "imgLocation": "Fish",
-            "description": "Fish with Open Mouth",
-            "date": "01/01/2016"
+            "name": "Ginger",
+            "uglvl": "5/10",
+            "actug": "She's plain but tolerable, "
         },
         {
-            "imgPath": "pics/fish5.png",
-            "imgLocation": "Fish",
-            "description": "Fish with Open Mouth",
-            "date": "01/01/2016"
+            "imgPath": "pics/fish5.jpg",
+            "name": "Spike",
+            "uglvl": "9/10",
+            "actug": "Absolutely ghastly. Keep him away, "
         },
         {
             "imgPath": "pics/fish6.png",
-            "imgLocation": "Fish",
-            "description": "Fish with Open Mouth",
-            "date": "01/01/2016"
+            "name": "Marge",
+            "uglvl": "4/10",
+            "actug": "Not the prettiest, but not unbearable either, "
         },
         {
-            "imgPath": "pics/fish7.png",
-            "imgLocation": "Fish",
-            "description": "Fish with Open Mouth",
-            "date": "01/01/2016"
+            "imgPath": "pics/fish7.jpg",
+            "name": "Bubbles",
+            "uglvl": "3/10",
+            "actug": "He's actually kinda cute if you look closely, "
         },
         {
-            "imgPath": "pics/fish8.png",
-            "imgLocation": "Fish",
-            "description": "Fish with Open Mouth",
-            "date": "01/01/2016"
+            "imgPath": "pics/fish8.jpg",
+            "name": "Otis",
+            "uglvl": "10/10",
+            "actug": "The stuff of nightmares. Please no, "
         },
         {
             "imgPath": "pics/fish9.png",
-            "imgLocation": "Fish",
-            "description": "Fish with Open Mouth",
-            "date": "01/01/2016"
+            "name": "Felicia",
+            "uglvl": "7/10",
+            "actug": "Mildly unsettling, but I could deal with it, "
         },
         {
             "imgPath": "pics/fish10.png",
-            "imgLocation": "Fish",
-            "description": "Fish with Open Mouth",
-            "date": "01/01/2016"
+            "name": "Charlie",
+            "uglvl": "2/10",
+            "actug": "Surprisingly charming for a fish, "
         }
     ]
 }
